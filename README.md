@@ -6,15 +6,15 @@ Supplementary experimental videos and an overview of the locomotion framework pr
 
 All supplementary videos are also available in the [Supplementary Video issue](https://github.com/shoukatng636-max/WMVHL/issues/1).
 
-### Video 1
+### 圆形台阶
 
 https://github.com/user-attachments/assets/107611a6-2855-40a0-8b12-a8570d64543d
 
-### Video 2
+### 崎岖地形
 
 https://github.com/user-attachments/assets/a6e987b6-b629-4b14-9a11-249e81b3f459
 
-### Video 3
+### sim2sim
 
 https://github.com/user-attachments/assets/4dd0f047-8136-4739-a95f-99d8906d396c
 
