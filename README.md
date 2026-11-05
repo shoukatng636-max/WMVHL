@@ -4,7 +4,7 @@ Supplementary experimental videos and an overview of the locomotion framework pr
 
 ## Experiment Videos
 
-All supplementary videos are also available in the [Supplementary Video issue](https://github.com/shoukatng636-max/WMVHL/issues/1).
+The original three supplementary videos are also available in the [Supplementary Video issue](https://github.com/shoukatng636-max/WMVHL/issues/1).
 
 ### 圆形台阶
 
@@ -17,6 +17,20 @@ https://github.com/user-attachments/assets/a6e987b6-b629-4b14-9a11-249e81b3f459
 ### sim2sim
 
 https://github.com/user-attachments/assets/4dd0f047-8136-4739-a95f-99d8906d396c
+
+### 实机跨越 gap
+
+[![Physical gap traversal](videos/posters/gap-traversal.jpg)](https://github.com/shoukatng636-max/WMVHL/blob/main/videos/gap-traversal.mp4)
+
+[Watch video](https://github.com/shoukatng636-max/WMVHL/blob/main/videos/gap-traversal.mp4) · [Download MP4](https://raw.githubusercontent.com/shoukatng636-max/WMVHL/main/videos/gap-traversal.mp4)
+
+### 实机攀爬台阶
+
+[![Physical stair ascent](videos/posters/stair-ascent.jpg)](https://github.com/shoukatng636-max/WMVHL/blob/main/videos/stair-ascent.mp4)
+
+[Watch video](https://github.com/shoukatng636-max/WMVHL/blob/main/videos/stair-ascent.mp4) · [Download MP4](https://raw.githubusercontent.com/shoukatng636-max/WMVHL/main/videos/stair-ascent.mp4)
+
+These two indoor hardware demonstrations were recorded with human support.
 
 <!-- Optional: add a public paper link here once it is available. -->
 
